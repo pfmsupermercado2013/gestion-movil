@@ -1,4 +1,4 @@
 gestion-movil
 =============
 
-PFM Supermercado: Gestión Móvil
+PFM Supermercado: Módulo de Gestión Móvil
